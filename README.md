@@ -91,5 +91,7 @@ Associated Elastic IP with EC2 instance to maintain a permanent public endpoint.
 - Can be reassigned to another instance
 
 ---
+## Author
 
-## Repository Structure
+**G Gayathri**  
+AWS Cloud Learner
